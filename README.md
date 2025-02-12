@@ -37,9 +37,9 @@ Create a `.env` file in the root directory and add the following variables:
 ```sh
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/fileupload
-CLOUDINARY_CLOUD_NAME=your_cloud_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_api_secret
+CLOUD_NAME=your_cloud_name
+API_KEY=your_api_key
+API_SECRET=your_api_secret
 ```
 
 ### Start MongoDB:
